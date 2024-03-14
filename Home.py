@@ -22,7 +22,7 @@ st.set_page_config(layout="wide")
 
 
 
-st.markdown("<h1 style='text-align: center; color: white;'>Stock Analysis Dynamic Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: white;'>Dynamic Stock Performance Tracking Dashboard</h1>", unsafe_allow_html=True)
 st.subheader('', divider = 'rainbow')
 # Setting Cache
 
